@@ -1,0 +1,6 @@
+{
+  "name": "KSPM STAIMI",
+  "description": "Web platform dan aplikasi edukasi pasar modal KSPM STAIMI dengan berita terkini, kurikulum edukasi investasi, simulasi trading IDX, dan forum diskusi mahasiswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
